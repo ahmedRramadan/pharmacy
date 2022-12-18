@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/pharmacy.git/static/css/main.b8680284.css",
-    "main.js": "/pharmacy.git/static/js/main.72b5213c.js",
-    "static/media/image-1.jpg": "/pharmacy.git/static/media/image-1.d58363d3a8b7f5f77c9c.jpg",
-    "static/media/image-2.jpg": "/pharmacy.git/static/media/image-2.224c0853347fa0365430.jpg",
-    "static/media/1.jpg": "/pharmacy.git/static/media/1.fc3e7fffa5e9909e9c28.jpg",
-    "static/media/pattern-1.png": "/pharmacy.git/static/media/pattern-1.31181987cfa8daf57361.png",
-    "static/media/featured-image-3.jpg": "/pharmacy.git/static/media/featured-image-3.ef3a06bd528e10a13070.jpg",
-    "static/media/team-5.jpg": "/pharmacy.git/static/media/team-5.b85494eaa0a6e174e4af.jpg",
-    "static/media/team-1.jpg": "/pharmacy.git/static/media/team-1.5eaee1ac9f44a4d920cc.jpg",
-    "static/media/team-4.jpg": "/pharmacy.git/static/media/team-4.fe1d3a7cba93dd5ea36a.jpg",
-    "static/media/team-2.jpg": "/pharmacy.git/static/media/team-2.18eadfee30751c302999.jpg",
-    "static/media/team-3.jpg": "/pharmacy.git/static/media/team-3.a5cda61574c3bce69fa4.jpg",
-    "static/media/featured-image-4.jpg": "/pharmacy.git/static/media/featured-image-4.685a1c81881bcd1b30a9.jpg",
-    "index.html": "/pharmacy.git/index.html",
-    "main.b8680284.css.map": "/pharmacy.git/static/css/main.b8680284.css.map",
-    "main.72b5213c.js.map": "/pharmacy.git/static/js/main.72b5213c.js.map"
+    "main.css": "/pharmacy/static/css/main.f299da4a.css",
+    "main.js": "/pharmacy/static/js/main.24b328d9.js",
+    "static/media/image-1.jpg": "/pharmacy/static/media/image-1.d58363d3a8b7f5f77c9c.jpg",
+    "static/media/image-2.jpg": "/pharmacy/static/media/image-2.224c0853347fa0365430.jpg",
+    "static/media/1.jpg": "/pharmacy/static/media/1.fc3e7fffa5e9909e9c28.jpg",
+    "static/media/pattern-1.png": "/pharmacy/static/media/pattern-1.31181987cfa8daf57361.png",
+    "static/media/featured-image-3.jpg": "/pharmacy/static/media/featured-image-3.ef3a06bd528e10a13070.jpg",
+    "static/media/team-5.jpg": "/pharmacy/static/media/team-5.b85494eaa0a6e174e4af.jpg",
+    "static/media/team-1.jpg": "/pharmacy/static/media/team-1.5eaee1ac9f44a4d920cc.jpg",
+    "static/media/team-4.jpg": "/pharmacy/static/media/team-4.fe1d3a7cba93dd5ea36a.jpg",
+    "static/media/team-2.jpg": "/pharmacy/static/media/team-2.18eadfee30751c302999.jpg",
+    "static/media/team-3.jpg": "/pharmacy/static/media/team-3.a5cda61574c3bce69fa4.jpg",
+    "static/media/featured-image-4.jpg": "/pharmacy/static/media/featured-image-4.685a1c81881bcd1b30a9.jpg",
+    "index.html": "/pharmacy/index.html",
+    "main.f299da4a.css.map": "/pharmacy/static/css/main.f299da4a.css.map",
+    "main.24b328d9.js.map": "/pharmacy/static/js/main.24b328d9.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8680284.css",
-    "static/js/main.72b5213c.js"
+    "static/css/main.f299da4a.css",
+    "static/js/main.24b328d9.js"
   ]
 }
