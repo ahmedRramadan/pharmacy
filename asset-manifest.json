@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pharmacy/static/css/main.f299da4a.css",
-    "main.js": "/pharmacy/static/js/main.639bf94c.js",
+    "main.css": "/pharmacy/static/css/main.b70739e6.css",
+    "main.js": "/pharmacy/static/js/main.f6062ec2.js",
     "static/media/image-1.jpg": "/pharmacy/static/media/image-1.d58363d3a8b7f5f77c9c.jpg",
     "static/media/image-2.jpg": "/pharmacy/static/media/image-2.224c0853347fa0365430.jpg",
     "static/media/1.jpg": "/pharmacy/static/media/1.fc3e7fffa5e9909e9c28.jpg",
@@ -14,11 +14,11 @@
     "static/media/team-3.jpg": "/pharmacy/static/media/team-3.a5cda61574c3bce69fa4.jpg",
     "static/media/featured-image-4.jpg": "/pharmacy/static/media/featured-image-4.685a1c81881bcd1b30a9.jpg",
     "index.html": "/pharmacy/index.html",
-    "main.f299da4a.css.map": "/pharmacy/static/css/main.f299da4a.css.map",
-    "main.639bf94c.js.map": "/pharmacy/static/js/main.639bf94c.js.map"
+    "main.b70739e6.css.map": "/pharmacy/static/css/main.b70739e6.css.map",
+    "main.f6062ec2.js.map": "/pharmacy/static/js/main.f6062ec2.js.map"
   },
   "entrypoints": [
-    "static/css/main.f299da4a.css",
-    "static/js/main.639bf94c.js"
+    "static/css/main.b70739e6.css",
+    "static/js/main.f6062ec2.js"
   ]
 }
